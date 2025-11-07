@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Samson Ibikunle
 
--   💻 I’m interested in Flutter Deelopment, Backend Development, Cloud Solutions, Machine Leaning and Artificial Intelligence
+-   💻 I’m interested in Flutter Development, Backend Development, Cloud Solutions, Machine Leaning and Artificial Intelligence
 -   🌱 I’m currently building with **Flutter (Dart)** and **Node.js (Express & NestJS)**
 -   🤝 I’m looking to collaborate on scalable systems, APIs, and cloud-driven applications
 -   📧 You can reach me at **ayomiposiibikunle@gmail.com**
